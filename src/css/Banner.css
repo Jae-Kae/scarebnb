@@ -1,5 +1,5 @@
 .banner{
-    background: url('https://shorttermrentalz.com/wp-content/uploads/2019/06/Airbnb-Luxe.jpg') center center;
+    background: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.huffpost.com%2Fgen%2F2155972%2Fimages%2Fo-HAUNTED-HOUSE-facebook.jpg&f=1&nofb=1') center center;
     height: 50vh;
     position: relative;
     
@@ -25,12 +25,12 @@
     background-color: white !important;
     font-weight: 900 !important;
     text-transform: inherit !important;
-    color: #ff7779 !important;
+    color: #85C33A !important;
 }
 
 
 .banner__info > button{
-    background-color: #ff7779;
+    background-color: #85C33A;
     color: white;
     text-transform: inherit;
     margin-top: 20px;
@@ -39,7 +39,7 @@
 
 .banner__info > button:hover{
     background-color: white;
-    color: #ff7779;
+    color: #85C33A;
 }
 
 

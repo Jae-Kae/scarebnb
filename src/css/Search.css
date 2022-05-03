@@ -34,14 +34,14 @@
 .search > button{
     position: absolute;
     left: 0;
-    top: 480px;
+    top: 474px;
     text-transform: inherit !important;
-    background-color: #ff7779;
+    background-color: #85C33A;
     color: white;
     width: 579px;
 }
 
 .search > button:hover{
     background-color: white;
-    color: #ff7779;
+    color: #85C33A;
 }
