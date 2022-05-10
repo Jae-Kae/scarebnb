@@ -24,4 +24,4 @@ Choose a spooky home from the searched results!
 
 ### Youtube Demo Video
 
-!(Watch the demo video here!)[https://youtu.be/1znoDFF2J9o]
+[Watch the demo video here!](https://youtu.be/1znoDFF2J9o)
